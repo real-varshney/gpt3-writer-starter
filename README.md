@@ -1,3 +1,3 @@
 # buildspace 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is the twitter creating web pages through openai that seems to be written by Eminem.
