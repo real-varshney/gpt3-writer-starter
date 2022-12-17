@@ -19,7 +19,7 @@ console.log(`API: ${basePromptPrefix}${req.body.userInput}`);
   
   const basePromptOutput = baseCompletion.data.choices.pop();
 
-  res.status(200).json({ output: basePromptOutput });
+  res.status(200).send({ output: basePromptOutput });
 };
 
 export default generateAction;
